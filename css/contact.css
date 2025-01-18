@@ -1,0 +1,27 @@
+body {background-color: #04202C ;
+    display: flex;
+      justify-content: center; /* Горизонтальне центрування */
+      align-items: center;    /* Вертикальне центрування */
+      height: 100vh;          /* Висота сторінки на весь екран */
+      margin: 0;              /* Видаляє відступи браузера */
+}
+
+div {
+    background-color: #5b7065;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20%;
+
+}
+
+a:hover {
+    background-color: #515e58;
+}
+
